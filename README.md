@@ -1,2 +1,2 @@
 # LetsGo
-An advance railway reservation system
+An advanced railway reservation system
